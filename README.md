@@ -1,1 +1,1 @@
-A Driver application which uses the CT417 Student Registation System (https://github.com/BrianGubbins/Student-Registration-System.git)
+To run type the command: java -jar StudentRegistrationSystemDriver-1.0.jar from within the target folder
